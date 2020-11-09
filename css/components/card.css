@@ -1,0 +1,9 @@
+/* Home Page - White category cards */
+.card-white{
+  background-color: white;
+  padding: 40px;
+  border-radius:8px;
+  margin: 20px 0px;
+  text-align: center;
+}
+

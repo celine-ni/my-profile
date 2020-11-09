@@ -1,0 +1,9 @@
+/* My profile - Top banner */
+.banner-welcome{
+  background-color:#efbbcf;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding:1px;
+  text-transform: uppercase;
+}

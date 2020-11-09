@@ -1,0 +1,7 @@
+/* My profile - Sphere photoS */
+.avatar{
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  padding: 10px;
+}
