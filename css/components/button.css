@@ -1,12 +1,17 @@
 /* My profile - Discover Le Wagon button */
-.btn-blue{
+.btn-click{
   background-color:#c3aed6;
   color:white;
   padding: 10px 20px;
   border-radius: 8px;
 }
 
-.btn-blue:hover{
+.btn-click:hover{
   background-color:#efbbcf;
   color:white;
+  overflow: hidden;
+  transition: 0.5s;
+  z-index: 1;
+  transform: scale(1.15);
+  background:linear-gradient(250deg, #efbbcf, rgba(0,0,0,0.1));
 }
