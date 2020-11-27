@@ -5,3 +5,11 @@
   border-radius: 50%;
   padding: 10px;
 }
+
+.avatar:hover{
+  overflow: hidden;
+  transition: 0.5s;
+  z-index: 1;
+  transform: scale(1.15);
+  transform: perspective(600px) rotateY(180deg);
+}
