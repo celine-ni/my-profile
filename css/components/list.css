@@ -2,6 +2,9 @@
 .list-inline{
   list-style: none;
   padding-left: 0px;
+
+  overflow: hidden;
+  transition: 0.5s;
 }
 
 .list-inline li {
@@ -16,4 +19,8 @@
 .list-inline i:hover {
   font-size: 50px;
   color:#efbbcf;
+  overflow: hidden;
+  transition: 0.5s;
 }
+
+
